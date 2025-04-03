@@ -1,4 +1,4 @@
-public class ClasePadre
+public class ClaseHija Extends ClasePadre
     {
     private String Atributo2;
     
